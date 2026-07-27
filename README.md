@@ -1,4 +1,4 @@
-# 80 Free Custom GPT Prompts and Tools
+# 80 Public Custom GPT Prompts and Tools
 
 A public library of narrow, prompt-only Custom GPT utilities by
 [KikuAI](https://kikuai.dev). Every entry includes the complete custom
