@@ -4,6 +4,8 @@ Turn screenshots of tables, dashboards, and lists into clean Markdown, CSV, or T
 
 [Open Screenshot to Table in ChatGPT](https://chatgpt.com/g/g-6a60e2a7bf58819197592e068cc11e65-screenshot-to-table)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/screenshot-to-table/)
+
 - Visibility: **GPT Store**
 - Category: Research & Analysis
 - Prompt version: `sha256-a2ad63f834f1`

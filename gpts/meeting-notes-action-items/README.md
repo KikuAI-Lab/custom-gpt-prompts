@@ -4,6 +4,8 @@ Turn a meeting transcript or rough notes into a clear summary, decisions, owners
 
 [Open Meeting Notes to Action Items in ChatGPT](https://chatgpt.com/g/g-6a6133f92d1c8191ac73e8a5c7b7deae-meeting-notes-to-action-items)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/meeting-notes-action-items/)
+
 - Visibility: **GPT Store**
 - Category: Productivity
 - Prompt version: `sha256-33444dc9253a`

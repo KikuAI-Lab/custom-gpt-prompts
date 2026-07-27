@@ -4,6 +4,8 @@ Convert receipt and invoice photos into consistent CSV rows for line items or tr
 
 [Open Receipt to CSV in ChatGPT](https://chatgpt.com/g/g-6a60e2a7a41c8191ac50df68175be34a-receipt-to-csv)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/receipt-to-csv/)
+
 - Visibility: **GPT Store**
 - Category: Productivity
 - Prompt version: `sha256-2ff85f0f7182`

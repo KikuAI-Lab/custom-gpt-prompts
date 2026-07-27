@@ -7,6 +7,23 @@ link.
 
 **Snapshot: 2026-07-27 — 80 public GPTs, 63 in the GPT Store, 17 public by direct link.**
 
+## Search and web guides
+
+The [search entity registry](./search-profiles.json) keeps the GPT Store
+listing fields separate from external web-search pages. Every GPT has one
+literal primary query and public prompt URL. Five evidence-backed utilities
+also have substantive KikuAI guides:
+
+- [Image to Text OCR](https://kikuai.dev/gpts/image-to-text-ocr/)
+- [Screenshot to Table](https://kikuai.dev/gpts/screenshot-to-table/)
+- [Receipt to CSV](https://kikuai.dev/gpts/receipt-to-csv/)
+- [Excel Formula Fixer](https://kikuai.dev/gpts/excel-formula-fixer/)
+- [Meeting Notes to Action Items](https://kikuai.dev/gpts/meeting-notes-action-items/)
+
+The remaining 75 prompts stay in this catalog rather than receiving thin
+search pages. Neither Store-public status nor a web guide proves search rank or
+indexing.
+
 ## Browse all Custom GPTs
 
 | Custom GPT | What it does | Visibility | Complete prompt |

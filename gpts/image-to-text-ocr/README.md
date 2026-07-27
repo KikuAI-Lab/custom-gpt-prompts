@@ -4,6 +4,8 @@ Extract text from photos, screenshots, scans, and signs. Preserves layout and ma
 
 [Open Image to Text OCR in ChatGPT](https://chatgpt.com/g/g-6a60e2a79b908191b4801cc5f81479e6-image-to-text-ocr)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/image-to-text-ocr/)
+
 - Visibility: **GPT Store**
 - Category: Productivity
 - Prompt version: `sha256-dd2998d7c2d0`
