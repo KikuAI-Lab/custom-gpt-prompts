@@ -4,6 +4,8 @@ Fix or explain one Excel or Google Sheets formula from the formula, error, heade
 
 [Open Excel Formula Fixer in ChatGPT](https://chatgpt.com/g/g-6a6164dde86c81919d3002bf20c89b5a-excel-formula-fixer)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/excel-formula-fixer/)
+
 - Visibility: **GPT Store**
 - Category: Productivity
 - Prompt version: `sha256-01575ce0eb49`
