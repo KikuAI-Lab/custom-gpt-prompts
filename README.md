@@ -135,3 +135,9 @@ The portfolio checkpoint is tracked in
 [KikuAI-Lab/kikuai.dev#64](https://github.com/KikuAI-Lab/kikuai.dev/issues/64).
 This repository is a dated public snapshot. When a live GPT configuration or
 URL changes, its page and `catalog.json` should be updated together.
+
+## License
+
+Copyright © 2026 KikuAI. All rights reserved. The prompts are publicly
+inspectable, and the linked GPTs remain available to use under the applicable
+platform terms. See [LICENSE](./LICENSE).
