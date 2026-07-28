@@ -4,7 +4,7 @@ Design a seven-day behavior test for one already-approved product feature and hy
 
 [Open 7-Day Feature Test Plan in ChatGPT](https://chatgpt.com/g/g-6a66fc448ea88191a9d1bde392dc8463-7-day-feature-test-plan)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Research & Analysis
 - Prompt version: `sha256-bda9f93ad847`
 - Last verified: 2026-07-27

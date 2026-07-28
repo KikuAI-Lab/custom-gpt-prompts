@@ -4,7 +4,7 @@ Write one compact PRD for one approved feature inside an existing product, using
 
 [Open Mini Feature PRD Writer in ChatGPT](https://chatgpt.com/g/g-6a66f8eaceb081919e7479cd53154da6)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-2a1ca4540633`
 - Last verified: 2026-07-27

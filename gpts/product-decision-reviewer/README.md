@@ -4,7 +4,7 @@ Review one supplied feature rollout decision through evidence, reversibility, us
 
 [Open Feature Rollout Decision Reviewer in ChatGPT](https://chatgpt.com/g/g-6a66fc805cd081918aefe0ab85a766ee-feature-rollout-decision-reviewer)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Research & Analysis
 - Prompt version: `sha256-6f081eb83e6e`
 - Last verified: 2026-07-27

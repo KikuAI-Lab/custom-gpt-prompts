@@ -4,7 +4,7 @@ Turn supplied workplace incident facts into one neutral report without inventing
 
 [Open Workplace Incident Report Generator in ChatGPT](https://chatgpt.com/g/g-6a65265964548191b07db9a6cc37f7db-workplace-incident-report-generator)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-1e64269aee08`
 - Last verified: 2026-07-27

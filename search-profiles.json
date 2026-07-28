@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-07-27",
+  "snapshotDate": "2026-07-28",
   "sourceIssue": "https://github.com/KikuAI-Lab/kikuai.dev/issues/64",
   "builderName": "KikuAI Studio",
   "surfacePolicy": {
@@ -9,11 +9,12 @@
   },
   "evidenceBoundary": "Publication and prompt configuration were reconciled on the dates shown. This file does not prove GPT Store rank, web indexing, Builder runtime parity, first-task success, or retention.",
   "counts": {
-    "total": 80,
+    "total": 100,
     "dedicatedLandingPages": 5,
-    "publicPromptCatalogOnly": 75,
+    "publicPromptCatalogOnly": 95,
     "gptStore": 63,
-    "publicLink": 17
+    "publicLink": 17,
+    "launchReady": 20
   },
   "profiles": [
     {
@@ -79,7 +80,7 @@
       "webPageDecision": "public_prompt_catalog",
       "publicationVisibility": "gpt_store",
       "storeDiscoverable": true,
-      "promptVersion": "sha256-0fc65939bdc9",
+      "promptVersion": "sha256-d048cff31633",
       "lastVerifiedAt": "2026-07-26"
     },
     {
@@ -101,7 +102,7 @@
       "webPageDecision": "dedicated_landing_page",
       "publicationVisibility": "gpt_store",
       "storeDiscoverable": true,
-      "promptVersion": "sha256-2ff85f0f7182",
+      "promptVersion": "sha256-5e4d2ef89b5b",
       "lastVerifiedAt": "2026-07-26"
     },
     {
@@ -1685,7 +1686,7 @@
       "webPageDecision": "public_prompt_catalog",
       "publicationVisibility": "public_link",
       "storeDiscoverable": false,
-      "promptVersion": "sha256-ddeb458e02ac",
+      "promptVersion": "sha256-6a8a0b1da294",
       "lastVerifiedAt": "2026-07-27"
     },
     {
@@ -1775,6 +1776,446 @@
       "storeDiscoverable": false,
       "promptVersion": "sha256-69f85ef888ad",
       "lastVerifiedAt": "2026-07-27"
+    },
+    {
+      "slug": "codebase-architecture-reviewer",
+      "canonicalName": "Codebase Architecture Reviewer",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Review a supplied file tree, module map, or architecture note for coupling, unclear boundaries, and high-leverage refactoring opportunities.",
+      "primaryQuery": "codebase architecture review",
+      "supportingIntents": [
+        "Review this codebase architecture and rank the main problems.",
+        "Find tightly coupled modules in this file tree and notes.",
+        "Suggest cleaner module boundaries without rewriting everything.",
+        "Compare two architecture options for this feature."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/codebase-architecture-reviewer",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-1af8ea8a3d30",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "tdd-plan-generator",
+      "canonicalName": "TDD Plan Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn a feature or bug description into a practical red-green-refactor sequence built around observable behavior and stable test seams.",
+      "primaryQuery": "TDD plan generator",
+      "supportingIntents": [
+        "Create a TDD plan for this feature.",
+        "Turn this bug into a failing-test-first sequence.",
+        "Choose stable test seams for this behavior.",
+        "Rewrite this test plan to avoid implementation-detail tests."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/tdd-plan-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-b14d9195ee40",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "developer-handoff-generator",
+      "canonicalName": "Developer Handoff Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Productivity",
+      "job": "Turn project notes, chat context, decisions, and current status into a concise developer handoff that another person can resume immediately.",
+      "primaryQuery": "developer handoff generator",
+      "supportingIntents": [
+        "Turn these project notes into a developer handoff.",
+        "Write a handoff for the next coding session.",
+        "Condense this long status update into restart context.",
+        "Redact secrets and prepare this work for another developer."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/developer-handoff-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-3fd8e0aaa7ac",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "issue-triage-assistant",
+      "canonicalName": "Issue Triage Assistant",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Classify a supplied bug or feature request, expose missing information, and produce a concise ready, needs-info, duplicate, or close verdict.",
+      "primaryQuery": "issue triage assistant",
+      "supportingIntents": [
+        "Triage this bug report.",
+        "Decide whether this issue is ready for implementation.",
+        "Turn this vague feature request into a clear triage note.",
+        "Compare these two issues for possible duplication."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/issue-triage-assistant",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-21965228717b",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "prototype-scope-planner",
+      "canonicalName": "Prototype Scope Planner",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn one uncertain product or engineering question into a minimal throwaway prototype plan with a clear test, verdict, and stop condition.",
+      "primaryQuery": "prototype scope planner",
+      "supportingIntents": [
+        "Plan the smallest prototype for this product question.",
+        "Turn this uncertain workflow into a throwaway test.",
+        "Decide whether this needs a UI or logic prototype.",
+        "Cut this prototype scope down to one answerable question."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/prototype-scope-planner",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-028fccc5b2f5",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "technical-concept-tutor",
+      "canonicalName": "Technical Concept Tutor",
+      "builderName": "KikuAI Studio",
+      "category": "Education",
+      "job": "Teach one technical concept at the learner's level through a plain-language model, worked example, quick check, and next lesson.",
+      "primaryQuery": "technical concept tutor",
+      "supportingIntents": [
+        "Teach me this technical concept from first principles.",
+        "Explain this code idea at my current level.",
+        "Quiz me briefly after the explanation.",
+        "Use this example to show where my understanding breaks."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/technical-concept-tutor",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-b9841cd924a1",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "feature-brainstorming-coach",
+      "canonicalName": "Feature Brainstorming Coach",
+      "builderName": "KikuAI Studio",
+      "category": "Research & Analysis",
+      "job": "Explore a supplied product problem into distinct feature options, trade-offs, assumptions, and one recommended next experiment without rushing to a build.",
+      "primaryQuery": "feature brainstorming",
+      "supportingIntents": [
+        "Brainstorm distinct solutions to this user problem.",
+        "Challenge my feature idea before I build it.",
+        "Give me three genuinely different approaches.",
+        "Turn this rough idea into one testable next decision."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/feature-brainstorming-coach",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-5bd7cd628097",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "domain-model-builder",
+      "canonicalName": "Domain Model Builder",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn product rules, workflows, and edge cases into a clear domain model of entities, states, invariants, events, and unresolved decisions.",
+      "primaryQuery": "domain model builder",
+      "supportingIntents": [
+        "Build a domain model from these product rules.",
+        "Map the entities, states, and invariants in this workflow.",
+        "Find ambiguous terms and missing edge cases.",
+        "Stress-test this domain model with scenarios."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/domain-model-builder",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-40cda380cbe6",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "frontend-performance-reviewer",
+      "canonicalName": "Frontend Performance Reviewer",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Review supplied frontend code for avoidable rendering, loading, bundle, and data-fetching costs, then rank the smallest measurable fixes.",
+      "primaryQuery": "frontend performance review",
+      "supportingIntents": [
+        "Review this frontend code for performance problems.",
+        "Find unnecessary rerenders and expensive work.",
+        "Rank the loading and bundle risks in this component.",
+        "Suggest a measurable fix without changing behavior."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/frontend-performance-reviewer",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-01fcef41ea77",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "root-cause-debugging-guide",
+      "canonicalName": "Root Cause Debugging Guide",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn symptoms, logs, and recent changes into an evidence-first debugging loop with ranked hypotheses and one discriminating next test.",
+      "primaryQuery": "root cause debugging",
+      "supportingIntents": [
+        "Help me find the root cause of this bug.",
+        "Turn these logs into ranked debugging hypotheses.",
+        "Design the next test that separates these causes.",
+        "Stop me from applying another symptom fix."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/root-cause-debugging-guide",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-155a78ee2ea0",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "implementation-plan-generator",
+      "canonicalName": "Implementation Plan Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn a supplied feature specification and project context into ordered, testable implementation steps with scope, files, evidence, and rollback points.",
+      "primaryQuery": "implementation plan generator",
+      "supportingIntents": [
+        "Create an implementation plan from this feature spec.",
+        "Break this change into small testable steps.",
+        "Map these requirements to files and verification.",
+        "Rewrite this plan so another developer can execute it."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/implementation-plan-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-a28c3f2c1bb1",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "refactor-plan-generator",
+      "canonicalName": "Refactor Plan Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn a supplied code smell or design problem into a behavior-preserving refactor sequence of small reversible steps and safety checks.",
+      "primaryQuery": "refactor plan generator",
+      "supportingIntents": [
+        "Create a safe refactor plan for this code.",
+        "Break this redesign into behavior-preserving steps.",
+        "Compare refactor options before choosing one.",
+        "Add safety checks to this risky refactor plan."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/refactor-plan-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-e011ee60b154",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "merge-conflict-resolver",
+      "canonicalName": "Merge Conflict Resolver",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Explain pasted merge conflicts and produce a conservative resolved version that preserves both sides' supported intent without inventing surrounding code.",
+      "primaryQuery": "merge conflict resolver",
+      "supportingIntents": [
+        "Resolve these merge conflict markers.",
+        "Explain what each side changed before merging.",
+        "Preserve both supported behaviors in this conflict.",
+        "Tell me when this conflict needs more context."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/merge-conflict-resolver",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-613f76a0129f",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "source-claim-checker",
+      "canonicalName": "Source Claim Checker",
+      "builderName": "KikuAI Studio",
+      "category": "Research & Analysis",
+      "job": "Check whether supplied sources actually support a claim, separating direct evidence, inference, contradiction, missing context, and unsupported wording.",
+      "primaryQuery": "source claim checker",
+      "supportingIntents": [
+        "Check whether these sources support this claim.",
+        "Find overstatements in this evidence summary.",
+        "Separate source facts from my inference.",
+        "Rewrite this claim to match the supplied evidence."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/source-claim-checker",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-326407b1b702",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "exploratory-test-charter-generator",
+      "canonicalName": "Exploratory Test Charter Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn a feature, risk, or recent change into focused exploratory test charters with setup, tours, observations, and stop conditions.",
+      "primaryQuery": "exploratory test charter generator",
+      "supportingIntents": [
+        "Create exploratory test charters for this feature.",
+        "Focus QA on the riskiest parts of this change.",
+        "Turn this bug history into a test session plan.",
+        "Design a 30-minute exploratory testing session."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/exploratory-test-charter-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-e1d9363db0f1",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "product-glossary-builder",
+      "canonicalName": "Product Glossary Builder",
+      "builderName": "KikuAI Studio",
+      "category": "Productivity",
+      "job": "Extract product terminology from supplied notes and create a consistent glossary that exposes synonyms, ambiguous words, and naming decisions.",
+      "primaryQuery": "product glossary builder",
+      "supportingIntents": [
+        "Build a product glossary from these notes.",
+        "Find ambiguous and overloaded terms in this spec.",
+        "Choose one canonical term for these synonyms.",
+        "Turn this conversation into a shared vocabulary."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/product-glossary-builder",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-1017ff509135",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "done-evidence-checker",
+      "canonicalName": "Done Evidence Checker",
+      "builderName": "KikuAI Studio",
+      "category": "Productivity",
+      "job": "Compare a completion claim with supplied requirements and fresh evidence, then return verified, partially verified, unverified, or contradicted.",
+      "primaryQuery": "completion evidence checker",
+      "supportingIntents": [
+        "Check whether this work is really done.",
+        "Compare these test results with the acceptance criteria.",
+        "Find unsupported claims in this completion update.",
+        "Create the smallest missing verification checklist."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/done-evidence-checker",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-f208c1abd62c",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "website-accessibility-reviewer",
+      "canonicalName": "Website Accessibility Reviewer",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Review supplied page code, copy, or screenshots for practical accessibility risks and return prioritized fixes without claiming formal compliance.",
+      "primaryQuery": "website accessibility review",
+      "supportingIntents": [
+        "Review this page for accessibility risks.",
+        "Check this form screenshot and markup.",
+        "Rank the keyboard and screen-reader problems.",
+        "Rewrite these labels and error messages clearly."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/website-accessibility-reviewer",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-a49523b53da8",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "seo-audit-action-plan",
+      "canonicalName": "SEO Audit Action Plan",
+      "builderName": "KikuAI Studio",
+      "category": "Research & Analysis",
+      "job": "Audit supplied page titles, metadata, headings, copy, links, and crawl evidence, then produce a prioritized SEO action plan without pretending to crawl the site.",
+      "primaryQuery": "SEO audit action plan",
+      "supportingIntents": [
+        "Audit this page copy and metadata for SEO.",
+        "Prioritize these crawl and indexation findings.",
+        "Review these titles, headings, and internal links.",
+        "Turn this SEO export into an action plan."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/seo-audit-action-plan",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-dc486d5a9761",
+      "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "landing-page-copywriter",
+      "canonicalName": "Landing Page Copywriter",
+      "builderName": "KikuAI Studio",
+      "category": "Writing",
+      "job": "Turn a supplied product, audience, proof, and call to action into clear conversion-focused landing page copy without invented claims.",
+      "primaryQuery": "landing page copywriter",
+      "supportingIntents": [
+        "Write landing page copy from this product brief.",
+        "Turn these customer notes into a clear hero section.",
+        "Rewrite this page around one primary action.",
+        "Create honest benefit-led copy from these proof points."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/landing-page-copywriter",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-dc9789bfb993",
+      "lastVerifiedAt": "2026-07-28"
     }
   ]
 }

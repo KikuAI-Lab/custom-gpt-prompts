@@ -4,7 +4,7 @@ Turn supplied organization, team, product, or founder facts into one clear missi
 
 [Open Mission Statement Generator in ChatGPT](https://chatgpt.com/g/g-6a652691c1208191bb2771bed4b7bbce-mission-statement-generator)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Writing
 - Prompt version: `sha256-49c33eb0b00f`
 - Last verified: 2026-07-27

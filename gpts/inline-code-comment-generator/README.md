@@ -4,7 +4,7 @@ Add concise inline comments to supplied code without changing logic or inventing
 
 [Open Inline Code Comment Generator in ChatGPT](https://chatgpt.com/g/g-6a65259a7f24819195cafee29bff119e-inline-code-comment-generator)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-5918578aba5f`
 - Last verified: 2026-07-27

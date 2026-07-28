@@ -4,7 +4,7 @@ Format supplied YAML into clean, readable structure while preserving keys, value
 
 [Open YAML Formatter in ChatGPT](https://chatgpt.com/g/g-6a652639622081918b8aa74fec5b9598-yaml-formatter)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-c7a72a20b089`
 - Last verified: 2026-07-27

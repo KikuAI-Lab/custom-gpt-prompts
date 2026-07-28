@@ -1,18 +1,18 @@
-# 80 Public Custom GPT Prompts and Tools
+# 100 Custom GPT Prompt Packages and Tools
 
 A public library of narrow, prompt-only Custom GPT utilities by
 [KikuAI](https://kikuai.dev). Every entry includes the complete custom
-instructions, conversation starters, a prompt version, and a direct ChatGPT
-link.
+instructions, conversation starters, a prompt version, and an honest
+publication state.
 
-**Snapshot: 2026-07-27 — 80 public GPTs, 63 in the GPT Store, 17 public by direct link.**
+**Snapshot: 2026-07-28 — 100 prompt packages; 80 public GPTs (63 in the GPT Store and 17 by direct link); 20 launch-ready packages not yet created in ChatGPT.**
 
 ## Search and web guides
 
-The [search entity registry](./search-profiles.json) keeps the GPT Store
-listing fields separate from external web-search pages. Every GPT has one
-literal primary query and public prompt URL. Five evidence-backed utilities
-also have substantive KikuAI guides:
+The [search entity registry](./search-profiles.json) keeps GPT Store listing
+fields separate from external web-search pages. Every package has one literal
+primary query and a public prompt URL. Five evidence-backed utilities also have
+substantive KikuAI guides:
 
 - [Image to Text OCR](https://kikuai.dev/gpts/image-to-text-ocr/)
 - [Screenshot to Table](https://kikuai.dev/gpts/screenshot-to-table/)
@@ -20,11 +20,11 @@ also have substantive KikuAI guides:
 - [Excel Formula Fixer](https://kikuai.dev/gpts/excel-formula-fixer/)
 - [Meeting Notes to Action Items](https://kikuai.dev/gpts/meeting-notes-action-items/)
 
-The remaining 75 prompts stay in this catalog rather than receiving thin
-search pages. Neither Store-public status nor a web guide proves search rank or
+The remaining prompts stay in this catalog rather than receiving thin search
+pages. Neither Store-public status nor a web guide proves search rank or
 indexing.
 
-## Browse all Custom GPTs
+## Browse all prompt packages
 
 | Custom GPT | What it does | Visibility | Complete prompt |
 | --- | --- | --- | --- |
@@ -108,22 +108,36 @@ indexing.
 | [Architecture Threat Model Outline](https://chatgpt.com/g/g-6a66fd4a3d388191840d021ecfb4a427-architecture-threat-model-outline) | Turn a supplied architecture description into a preliminary threat-model outline with assets, trust boundaries, abuse-path questions, controls, and explicit unknowns. | Public link | [View prompt](./gpts/threat-model-from-architecture/README.md) |
 | [Bible Talk Outline Builder](https://chatgpt.com/g/g-6a66fd888c408191ab63446c66275be0-bible-talk-outline-builder) | Turn a supplied Bible topic, scriptures, assigned outline, and audience need into one natural spoken outline without inventing source material or overriding the assignment. | Public link | [View prompt](./gpts/bible-talk-outline-builder/README.md) |
 | [Bible Meeting Comment Builder](https://chatgpt.com/g/g-6a66fdc4e3b08191b0279c7d2367a5ea-bible-meeting-comment-builder) | Turn a supplied Bible-study paragraph, question, and scripture into one short natural meeting comment grounded only in the provided material. | Public link | [View prompt](./gpts/bible-meeting-comment-builder/README.md) |
+| Codebase Architecture Reviewer | Review a supplied file tree, module map, or architecture note for coupling, unclear boundaries, and high-leverage refactoring opportunities. | Launch-ready (not public) | [View prompt](./gpts/codebase-architecture-reviewer/README.md) |
+| TDD Plan Generator | Turn a feature or bug description into a practical red-green-refactor sequence built around observable behavior and stable test seams. | Launch-ready (not public) | [View prompt](./gpts/tdd-plan-generator/README.md) |
+| Developer Handoff Generator | Turn project notes, chat context, decisions, and current status into a concise developer handoff that another person can resume immediately. | Launch-ready (not public) | [View prompt](./gpts/developer-handoff-generator/README.md) |
+| Issue Triage Assistant | Classify a supplied bug or feature request, expose missing information, and produce a concise ready, needs-info, duplicate, or close verdict. | Launch-ready (not public) | [View prompt](./gpts/issue-triage-assistant/README.md) |
+| Prototype Scope Planner | Turn one uncertain product or engineering question into a minimal throwaway prototype plan with a clear test, verdict, and stop condition. | Launch-ready (not public) | [View prompt](./gpts/prototype-scope-planner/README.md) |
+| Technical Concept Tutor | Teach one technical concept at the learner's level through a plain-language model, worked example, quick check, and next lesson. | Launch-ready (not public) | [View prompt](./gpts/technical-concept-tutor/README.md) |
+| Feature Brainstorming Coach | Explore a supplied product problem into distinct feature options, trade-offs, assumptions, and one recommended next experiment without rushing to a build. | Launch-ready (not public) | [View prompt](./gpts/feature-brainstorming-coach/README.md) |
+| Domain Model Builder | Turn product rules, workflows, and edge cases into a clear domain model of entities, states, invariants, events, and unresolved decisions. | Launch-ready (not public) | [View prompt](./gpts/domain-model-builder/README.md) |
+| Frontend Performance Reviewer | Review supplied frontend code for avoidable rendering, loading, bundle, and data-fetching costs, then rank the smallest measurable fixes. | Launch-ready (not public) | [View prompt](./gpts/frontend-performance-reviewer/README.md) |
+| Root Cause Debugging Guide | Turn symptoms, logs, and recent changes into an evidence-first debugging loop with ranked hypotheses and one discriminating next test. | Launch-ready (not public) | [View prompt](./gpts/root-cause-debugging-guide/README.md) |
+| Implementation Plan Generator | Turn a supplied feature specification and project context into ordered, testable implementation steps with scope, files, evidence, and rollback points. | Launch-ready (not public) | [View prompt](./gpts/implementation-plan-generator/README.md) |
+| Refactor Plan Generator | Turn a supplied code smell or design problem into a behavior-preserving refactor sequence of small reversible steps and safety checks. | Launch-ready (not public) | [View prompt](./gpts/refactor-plan-generator/README.md) |
+| Merge Conflict Resolver | Explain pasted merge conflicts and produce a conservative resolved version that preserves both sides' supported intent without inventing surrounding code. | Launch-ready (not public) | [View prompt](./gpts/merge-conflict-resolver/README.md) |
+| Source Claim Checker | Check whether supplied sources actually support a claim, separating direct evidence, inference, contradiction, missing context, and unsupported wording. | Launch-ready (not public) | [View prompt](./gpts/source-claim-checker/README.md) |
+| Exploratory Test Charter Generator | Turn a feature, risk, or recent change into focused exploratory test charters with setup, tours, observations, and stop conditions. | Launch-ready (not public) | [View prompt](./gpts/exploratory-test-charter-generator/README.md) |
+| Product Glossary Builder | Extract product terminology from supplied notes and create a consistent glossary that exposes synonyms, ambiguous words, and naming decisions. | Launch-ready (not public) | [View prompt](./gpts/product-glossary-builder/README.md) |
+| Done Evidence Checker | Compare a completion claim with supplied requirements and fresh evidence, then return verified, partially verified, unverified, or contradicted. | Launch-ready (not public) | [View prompt](./gpts/done-evidence-checker/README.md) |
+| Website Accessibility Reviewer | Review supplied page code, copy, or screenshots for practical accessibility risks and return prioritized fixes without claiming formal compliance. | Launch-ready (not public) | [View prompt](./gpts/website-accessibility-reviewer/README.md) |
+| SEO Audit Action Plan | Audit supplied page titles, metadata, headings, copy, links, and crawl evidence, then produce a prioritized SEO action plan without pretending to crawl the site. | Launch-ready (not public) | [View prompt](./gpts/seo-audit-action-plan/README.md) |
+| Landing Page Copywriter | Turn a supplied product, audience, proof, and call to action into clear conversion-focused landing page copy without invented claims. | Launch-ready (not public) | [View prompt](./gpts/landing-page-copywriter/README.md) |
 
 ## What is included
 
-- `gpts/<slug>/README.md` — one readable page per GPT with its complete
-  instructions and direct ChatGPT link.
-- `catalog.json` — the same 80 configurations in a machine-readable format.
+- `gpts/<slug>/README.md` — one readable page per prompt package with its
+  complete instructions and verified publication state.
+- `catalog.json` — the same 100 configurations in a machine-readable
+  format.
 - Literal, search-friendly names and narrow input-to-output contracts.
 - No custom actions, external apps, private knowledge files, or external API
   dependencies.
-
-## Use a tool or inspect its prompt
-
-Open any GPT from the table and use it directly in ChatGPT. To inspect or adapt
-the configuration, open **View prompt**. Each page contains the description,
-conversation starters, exact instructions, publication status, and prompt
-version.
 
 ## Publication status
 
@@ -131,16 +145,20 @@ version.
   verified.
 - **Public link** means the GPT is public and usable through its direct URL but
   is not claimed as Store-discoverable.
+- **Launch-ready (not public)** means the prompt, avatar, listing fields, and
+  three-case smoke contract are ready, but a ChatGPT listing has not been
+  created.
 
 Public status does not prove search rank, search-engine indexing, first-task
 success, or user retention.
 
 ## Quality and safety boundary
 
-All 80 current prompt versions passed a three-case local proxy smoke suite:
-normal input, ambiguous or bad input, and a fabrication trap. This evidence
-helps find prompt defects; it is not a substitute for live Builder/runtime
-testing or human review.
+All 100 packages have a static three-case smoke contract: normal
+input, ambiguous or bad input, and a fabrication trap. Runtime receipts are
+kept in the private factory repository because provider availability and live
+Builder behavior can differ. Static evidence is not a substitute for live
+runtime testing or human review.
 
 The prompts instruct the tools to avoid inventing missing facts and to flag
 uncertainty. Users should still avoid sharing secrets or unnecessary personal
@@ -151,7 +169,8 @@ data and should review outputs before consequential use.
 The portfolio checkpoint is tracked in
 [KikuAI-Lab/kikuai.dev#64](https://github.com/KikuAI-Lab/kikuai.dev/issues/64).
 This repository is a dated public snapshot. When a live GPT configuration or
-URL changes, its page and `catalog.json` should be updated together.
+URL changes, its page, `catalog.json`, and `search-profiles.json` should be
+updated together.
 
 ## License
 

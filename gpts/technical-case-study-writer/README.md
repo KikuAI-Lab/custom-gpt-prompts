@@ -4,7 +4,7 @@ Turn evidence from one completed engineering project into a section-by-section c
 
 [Open Engineering Project Case Study Outline in ChatGPT](https://chatgpt.com/g/g-6a66fd0e34048191bc7e1c507bc006d6-engineering-project-case-study-outline)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Writing
 - Prompt version: `sha256-7f0cbdd7b1f1`
 - Last verified: 2026-07-27

@@ -4,7 +4,7 @@ Clarify a software or product request one focused question at a time, then produ
 
 [Open Requirements Interviewer in ChatGPT](https://chatgpt.com/g/g-6a66fac87a8081918cf2838ca0be7f2b-requirements-interviewer)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-7cd795179e1b`
 - Last verified: 2026-07-27

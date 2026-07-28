@@ -4,7 +4,7 @@ Turn a supplied architecture description into a preliminary threat-model outline
 
 [Open Architecture Threat Model Outline in ChatGPT](https://chatgpt.com/g/g-6a66fd4a3d388191840d021ecfb4a427-architecture-threat-model-outline)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-0a2118fce210`
 - Last verified: 2026-07-27

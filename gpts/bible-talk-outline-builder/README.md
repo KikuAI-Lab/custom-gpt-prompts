@@ -4,7 +4,7 @@ Turn a supplied Bible topic, scriptures, assigned outline, and audience need int
 
 [Open Bible Talk Outline Builder in ChatGPT](https://chatgpt.com/g/g-6a66fd888c408191ab63446c66275be0-bible-talk-outline-builder)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Education
 - Prompt version: `sha256-412fe7be76ce`
 - Last verified: 2026-07-27

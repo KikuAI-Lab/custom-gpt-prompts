@@ -4,7 +4,7 @@ Turn a supplied Bible-study paragraph, question, and scripture into one short na
 
 [Open Bible Meeting Comment Builder in ChatGPT](https://chatgpt.com/g/g-6a66fdc4e3b08191b0279c7d2367a5ea-bible-meeting-comment-builder)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Education
 - Prompt version: `sha256-69f85ef888ad`
 - Last verified: 2026-07-27

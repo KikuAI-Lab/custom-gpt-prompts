@@ -4,7 +4,7 @@ Turn supplied architecture decision notes into one clear ADR with context, optio
 
 [Open ADR Writer in ChatGPT](https://chatgpt.com/g/g-6a66fb6486ac8191868761dd18790f13-adr-writer)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-ba27f0e02126`
 - Last verified: 2026-07-27

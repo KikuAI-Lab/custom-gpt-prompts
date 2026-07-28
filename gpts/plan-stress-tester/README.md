@@ -4,7 +4,7 @@ Review a supplied product launch or rollout plan for hidden assumptions, failure
 
 [Open Launch Plan Reviewer in ChatGPT](https://chatgpt.com/g/g-6a66fc0024cc8191a11e790df6c2d746-launch-plan-reviewer)
 
-- Visibility: **Public link (not claimed as Store-discoverable)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-b98fe534dea5`
 - Last verified: 2026-07-27
