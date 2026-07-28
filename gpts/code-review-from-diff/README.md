@@ -4,10 +4,10 @@ Review a pasted code diff or changed-files summary for bugs, regressions, securi
 
 [Open Code Review from Diff in ChatGPT](https://chatgpt.com/g/g-6a66fa21c70081919f12eff537f813eb)
 
-- Visibility: **Public link**
+- Visibility: **GPT Store**
 - Category: Programming
 - Prompt version: `sha256-5d7f2219db7a`
-- Last verified: 2026-07-27
+- Last verified: 2026-07-28
 
 ## Conversation starters
 

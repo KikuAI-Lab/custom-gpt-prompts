@@ -1360,28 +1360,6 @@
       "lastVerifiedAt": "2026-07-26"
     },
     {
-      "slug": "birthday-message-generator",
-      "canonicalName": "Birthday Message Generator",
-      "builderName": "KikuAI Studio",
-      "category": "Writing",
-      "job": "Write a clear birthday message from supplied context and facts without inventing memories, age, relationship closeness, gifts, promises, or personal details not provided by the user.",
-      "primaryQuery": "birthday message generator",
-      "supportingIntents": [
-        "Write a birthday message from these facts only.",
-        "Make this birthday message warmer but still simple.",
-        "Create a short professional birthday message for a coworker.",
-        "Rewrite this birthday message to sound more natural and less cheesy."
-      ],
-      "chatgptUrl": "https://chatgpt.com/g/g-6a652615017c8191b6665fe7f50a9ef5-birthday-message-generator",
-      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/birthday-message-generator",
-      "landingPageUrl": null,
-      "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "gpt_store",
-      "storeDiscoverable": true,
-      "promptVersion": "sha256-ebb6f3519271",
-      "lastVerifiedAt": "2026-07-27"
-    },
-    {
       "slug": "yaml-formatter",
       "canonicalName": "YAML Formatter",
       "builderName": "KikuAI Studio",
@@ -1530,10 +1508,10 @@
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/code-review-from-diff",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "public_link",
-      "storeDiscoverable": false,
+      "publicationVisibility": "gpt_store",
+      "storeDiscoverable": true,
       "promptVersion": "sha256-5d7f2219db7a",
-      "lastVerifiedAt": "2026-07-27"
+      "lastVerifiedAt": "2026-07-28"
     },
     {
       "slug": "requirements-interviewer",
@@ -1596,10 +1574,10 @@
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/api-design-reviewer",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "public_link",
-      "storeDiscoverable": false,
+      "publicationVisibility": "gpt_store",
+      "storeDiscoverable": true,
       "promptVersion": "sha256-c9991425138e",
-      "lastVerifiedAt": "2026-07-27"
+      "lastVerifiedAt": "2026-07-28"
     },
     {
       "slug": "plan-stress-tester",
@@ -1731,50 +1709,6 @@
       "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-0a2118fce210",
-      "lastVerifiedAt": "2026-07-27"
-    },
-    {
-      "slug": "bible-talk-outline-builder",
-      "canonicalName": "Bible Talk Outline Builder",
-      "builderName": "KikuAI Studio",
-      "category": "Education",
-      "job": "Turn a supplied Bible topic, scriptures, assigned outline, and audience need into one natural spoken outline without inventing source material or overriding the assignment.",
-      "primaryQuery": "bible talk outline builder",
-      "supportingIntents": [
-        "Build a Bible talk outline from this assigned material.",
-        "Turn these scriptures and notes into a natural spoken outline.",
-        "Improve this talk outline while preserving the assignment.",
-        "Shorten this Bible talk outline to the supplied time limit."
-      ],
-      "chatgptUrl": "https://chatgpt.com/g/g-6a66fd888c408191ab63446c66275be0-bible-talk-outline-builder",
-      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/bible-talk-outline-builder",
-      "landingPageUrl": null,
-      "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "public_link",
-      "storeDiscoverable": false,
-      "promptVersion": "sha256-412fe7be76ce",
-      "lastVerifiedAt": "2026-07-27"
-    },
-    {
-      "slug": "bible-meeting-comment-builder",
-      "canonicalName": "Bible Meeting Comment Builder",
-      "builderName": "KikuAI Studio",
-      "category": "Education",
-      "job": "Turn a supplied Bible-study paragraph, question, and scripture into one short natural meeting comment grounded only in the provided material.",
-      "primaryQuery": "bible meeting comment builder",
-      "supportingIntents": [
-        "Write a short meeting comment from this paragraph and question.",
-        "Make this Bible-study comment sound more natural.",
-        "Create a deeper second comment from this supplied scripture.",
-        "Shorten this comment while keeping the main point."
-      ],
-      "chatgptUrl": "https://chatgpt.com/g/g-6a66fdc4e3b08191b0279c7d2367a5ea-bible-meeting-comment-builder",
-      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/bible-meeting-comment-builder",
-      "landingPageUrl": null,
-      "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "public_link",
-      "storeDiscoverable": false,
-      "promptVersion": "sha256-69f85ef888ad",
       "lastVerifiedAt": "2026-07-27"
     },
     {

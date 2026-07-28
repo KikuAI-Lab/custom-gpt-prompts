@@ -1,11 +1,11 @@
-# 100 Custom GPT Prompt Packages and Tools
+# 97 Custom GPT Prompt Packages and Tools
 
 A public library of narrow, prompt-only Custom GPT utilities by
 [KikuAI](https://kikuai.dev). Every entry includes the complete custom
 instructions, conversation starters, a prompt version, and an honest
 publication state.
 
-**Snapshot: 2026-07-28 — 100 prompt packages; 80 public GPTs (63 in the GPT Store and 17 by direct link); 20 launch-ready packages not yet created in ChatGPT.**
+**Snapshot: 2026-07-28 — 97 prompt packages; 77 public GPTs (64 in the GPT Store and 13 by direct link); 20 launch-ready packages not yet created in ChatGPT.**
 
 ## Search and web guides
 
@@ -89,25 +89,22 @@ indexing.
 | [Inline Code Comment Generator](https://chatgpt.com/g/g-6a65259a7f24819195cafee29bff119e-inline-code-comment-generator) | Add concise inline comments to supplied code without changing logic or inventing architecture, behavior, requirements, business rules, or undocumented intent. | Public link | [View prompt](./gpts/inline-code-comment-generator/README.md) |
 | [Project Status Report Generator](https://chatgpt.com/g/g-6a6525d29b688191b4c2c7d55d7f6fdc-project-status-report-generator) | Turn supplied project notes, milestones, blockers, and updates into one clear status report without inventing progress, owners, dates, risks, or next steps. | GPT Store | [View prompt](./gpts/project-status-report-generator/README.md) |
 | [Value Proposition Statement Generator](https://chatgpt.com/g/g-6a6525f33bf481919acc2055f4589e5e-value-proposition-statement-generator) | Generate one clear value proposition statement from supplied product or service facts without inventing customer pain, benefits, differentiation, proof, or results. | GPT Store | [View prompt](./gpts/value-proposition-statement-generator/README.md) |
-| [Birthday Message Generator](https://chatgpt.com/g/g-6a652615017c8191b6665fe7f50a9ef5-birthday-message-generator) | Write a clear birthday message from supplied context and facts without inventing memories, age, relationship closeness, gifts, promises, or personal details not provided by the user. | GPT Store | [View prompt](./gpts/birthday-message-generator/README.md) |
 | [YAML Formatter](https://chatgpt.com/g/g-6a652639622081918b8aa74fec5b9598-yaml-formatter) | Format supplied YAML into clean, readable structure while preserving keys, values, comments, boundaries, and order except for clearly labeled redaction of obvious credentials. | Public link | [View prompt](./gpts/yaml-formatter/README.md) |
 | [Data Dictionary Generator](https://chatgpt.com/g/g-6a65202bc82881918f5a52c8afb16a19-data-dictionary-generator) | Turn a supplied schema, field list, DDL, or table notes into a structured data dictionary without inventing field meanings, business rules, allowed values, or relationships. | GPT Store | [View prompt](./gpts/data-dictionary-generator/README.md) |
 | [Workplace Incident Report Generator](https://chatgpt.com/g/g-6a65265964548191b07db9a6cc37f7db-workplace-incident-report-generator) | Turn supplied workplace incident facts into one neutral report without inventing causes, blame, injuries, policy violations, legal conclusions, or missing timeline details. | Public link | [View prompt](./gpts/workplace-incident-report-generator/README.md) |
 | [Mission Statement Generator](https://chatgpt.com/g/g-6a652691c1208191bb2771bed4b7bbce-mission-statement-generator) | Turn supplied organization, team, product, or founder facts into one clear mission statement without inventing customers, values, impact claims, or strategy. | Public link | [View prompt](./gpts/mission-statement-generator/README.md) |
 | [Apology Message Generator](https://chatgpt.com/g/g-6a6526b2243c81919bbf8a9cb16d1834-apology-message-generator) | Write one clear apology message from supplied facts without inventing blame, legal admissions, excuses, compensation, promises, forgiveness, or relationship details. | GPT Store | [View prompt](./gpts/apology-message-generator/README.md) |
 | [Mini Feature PRD Writer](https://chatgpt.com/g/g-6a66f8eaceb081919e7479cd53154da6) | Write one compact PRD for one approved feature inside an existing product, using supplied users, behavior, constraints, and [TBD] gaps without generating backlog stories. | Public link | [View prompt](./gpts/prd-writer/README.md) |
-| [Code Review from Diff](https://chatgpt.com/g/g-6a66fa21c70081919f12eff537f813eb) | Review a pasted code diff or changed-files summary for bugs, regressions, security risks, and missing tests without pretending to inspect the repository or run the code. | Public link | [View prompt](./gpts/code-review-from-diff/README.md) |
+| [Code Review from Diff](https://chatgpt.com/g/g-6a66fa21c70081919f12eff537f813eb) | Review a pasted code diff or changed-files summary for bugs, regressions, security risks, and missing tests without pretending to inspect the repository or run the code. | GPT Store | [View prompt](./gpts/code-review-from-diff/README.md) |
 | [Requirements Interviewer](https://chatgpt.com/g/g-6a66fac87a8081918cf2838ca0be7f2b-requirements-interviewer) | Clarify a software or product request one focused question at a time, then produce a concise requirements brief with acceptance criteria, non-goals, and unresolved risks. | Public link | [View prompt](./gpts/requirements-interviewer/README.md) |
 | [ADR Writer](https://chatgpt.com/g/g-6a66fb6486ac8191868761dd18790f13-adr-writer) | Turn supplied architecture decision notes into one clear ADR with context, options, decision, consequences, and revisit conditions without inventing rationale or approval. | Public link | [View prompt](./gpts/adr-writer/README.md) |
-| [API Design Reviewer](https://chatgpt.com/g/g-6a66fbc256308191ba4c5ae5ff56441f-api-design-reviewer) | Review a supplied API contract, endpoint spec, schema, or configuration for ambiguity, insecure defaults, misuse risks, and safer interface choices without claiming runtime access. | Public link | [View prompt](./gpts/api-design-reviewer/README.md) |
+| [API Design Reviewer](https://chatgpt.com/g/g-6a66fbc256308191ba4c5ae5ff56441f-api-design-reviewer) | Review a supplied API contract, endpoint spec, schema, or configuration for ambiguity, insecure defaults, misuse risks, and safer interface choices without claiming runtime access. | GPT Store | [View prompt](./gpts/api-design-reviewer/README.md) |
 | [Launch Plan Reviewer](https://chatgpt.com/g/g-6a66fc0024cc8191a11e790df6c2d746-launch-plan-reviewer) | Review a supplied product launch or rollout plan for hidden assumptions, failure modes, missing gates, rollback gaps, and fragile sequencing without inventing project facts. | Public link | [View prompt](./gpts/plan-stress-tester/README.md) |
 | [7-Day Feature Test Plan](https://chatgpt.com/g/g-6a66fc448ea88191a9d1bde392dc8463-7-day-feature-test-plan) | Design a seven-day behavior test for one already-approved product feature and hypothesis, with a schedule, signal, proposed threshold, privacy boundary, decision, and kill rule. | Public link | [View prompt](./gpts/product-experiment-designer/README.md) |
 | [Feature Rollout Decision Reviewer](https://chatgpt.com/g/g-6a66fc805cd081918aefe0ab85a766ee-feature-rollout-decision-reviewer) | Review one supplied feature rollout decision through evidence, reversibility, user impact, delivery risk, and privacy, then return ship, hold, or limited-rollout. | Public link | [View prompt](./gpts/product-decision-reviewer/README.md) |
 | [UI Screenshot Reviewer](https://chatgpt.com/g/g-6a66fcc130908191ac3e22b06b5f6767-ui-screenshot-reviewer) | Review an uploaded app, dashboard, form, modal, or settings screenshot for clarity, hierarchy, usability, accessibility, and visible friction with prioritized fixes. | Public link | [View prompt](./gpts/ui-screenshot-reviewer/README.md) |
 | [Engineering Project Case Study Outline](https://chatgpt.com/g/g-6a66fd0e34048191bc7e1c507bc006d6-engineering-project-case-study-outline) | Turn evidence from one completed engineering project into a section-by-section case study outline covering the problem, decisions, failures, verified result, and fact gaps. | Public link | [View prompt](./gpts/technical-case-study-writer/README.md) |
 | [Architecture Threat Model Outline](https://chatgpt.com/g/g-6a66fd4a3d388191840d021ecfb4a427-architecture-threat-model-outline) | Turn a supplied architecture description into a preliminary threat-model outline with assets, trust boundaries, abuse-path questions, controls, and explicit unknowns. | Public link | [View prompt](./gpts/threat-model-from-architecture/README.md) |
-| [Bible Talk Outline Builder](https://chatgpt.com/g/g-6a66fd888c408191ab63446c66275be0-bible-talk-outline-builder) | Turn a supplied Bible topic, scriptures, assigned outline, and audience need into one natural spoken outline without inventing source material or overriding the assignment. | Public link | [View prompt](./gpts/bible-talk-outline-builder/README.md) |
-| [Bible Meeting Comment Builder](https://chatgpt.com/g/g-6a66fdc4e3b08191b0279c7d2367a5ea-bible-meeting-comment-builder) | Turn a supplied Bible-study paragraph, question, and scripture into one short natural meeting comment grounded only in the provided material. | Public link | [View prompt](./gpts/bible-meeting-comment-builder/README.md) |
 | Codebase Architecture Reviewer | Review a supplied file tree, module map, or architecture note for coupling, unclear boundaries, and high-leverage refactoring opportunities. | Launch-ready (not public) | [View prompt](./gpts/codebase-architecture-reviewer/README.md) |
 | TDD Plan Generator | Turn a feature or bug description into a practical red-green-refactor sequence built around observable behavior and stable test seams. | Launch-ready (not public) | [View prompt](./gpts/tdd-plan-generator/README.md) |
 | Developer Handoff Generator | Turn project notes, chat context, decisions, and current status into a concise developer handoff that another person can resume immediately. | Launch-ready (not public) | [View prompt](./gpts/developer-handoff-generator/README.md) |
@@ -133,7 +130,7 @@ indexing.
 
 - `gpts/<slug>/README.md` — one readable page per prompt package with its
   complete instructions and verified publication state.
-- `catalog.json` — the same 100 configurations in a machine-readable
+- `catalog.json` — the same 97 configurations in a machine-readable
   format.
 - Literal, search-friendly names and narrow input-to-output contracts.
 - No custom actions, external apps, private knowledge files, or external API
@@ -154,7 +151,7 @@ success, or user retention.
 
 ## Quality and safety boundary
 
-All 100 packages have a static three-case smoke contract: normal
+All 97 packages have a static three-case smoke contract: normal
 input, ambiguous or bad input, and a fabrication trap. Runtime receipts are
 kept in the private factory repository because provider availability and live
 Builder behavior can differ. Static evidence is not a substitute for live

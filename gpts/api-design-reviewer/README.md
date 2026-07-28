@@ -4,10 +4,10 @@ Review a supplied API contract, endpoint spec, schema, or configuration for ambi
 
 [Open API Design Reviewer in ChatGPT](https://chatgpt.com/g/g-6a66fbc256308191ba4c5ae5ff56441f-api-design-reviewer)
 
-- Visibility: **Public link**
+- Visibility: **GPT Store**
 - Category: Programming
 - Prompt version: `sha256-c9991425138e`
-- Last verified: 2026-07-27
+- Last verified: 2026-07-28
 
 ## Conversation starters
 
