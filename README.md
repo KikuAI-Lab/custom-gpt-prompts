@@ -5,7 +5,11 @@ A public library of narrow, prompt-only Custom GPT utilities by
 instructions, conversation starters, a prompt version, and an honest
 publication state.
 
-**Snapshot: 2026-07-28 — 97 prompt packages; 77 public GPTs (64 in the GPT Store and 13 by direct link); 20 launch-ready packages not yet created in ChatGPT.**
+**Snapshot: 2026-07-29 — 97 prompt packages; 77 public GPTs (64 in the GPT Store and 13 by direct link); 20 launch-ready packages not yet created in ChatGPT.**
+
+All 77 live listings have their matching original ImageGen avatar
+applied and saved in Builder. The 20 launch-ready packages
+also have complete original avatar assets, but they are not claimed as live.
 
 ## Search and web guides
 

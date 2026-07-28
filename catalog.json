@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-07-28",
+  "snapshotDate": "2026-07-29",
   "sourceIssue": "https://github.com/KikuAI-Lab/kikuai.dev/issues/64",
   "evidenceBoundary": "Prompt configurations, publication states, and public URLs were locally reconciled. Static smoke contracts and local proxy evidence do not prove GPT Store search rank, indexing, retention, or live Builder runtime parity.",
   "counts": {
