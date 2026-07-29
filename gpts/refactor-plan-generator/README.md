@@ -2,12 +2,12 @@
 
 Turn a supplied code smell or design problem into a behavior-preserving refactor sequence of small reversible steps and safety checks.
 
-**ChatGPT listing:** Not created
+[Open Refactor Plan Generator in ChatGPT](https://chatgpt.com/g/g-6a6a15d449f48191a39c79b92d5965e1-refactor-plan-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-e011ee60b154`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

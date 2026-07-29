@@ -2,12 +2,12 @@
 
 Teach one technical concept at the learner's level through a plain-language model, worked example, quick check, and next lesson.
 
-**ChatGPT listing:** Not created
+[Open Technical Concept Tutor in ChatGPT](https://chatgpt.com/g/g-6a6a137e406081918fab5131d06fc496-technical-concept-tutor)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Education
 - Prompt version: `sha256-b9841cd924a1`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

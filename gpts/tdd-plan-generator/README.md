@@ -2,12 +2,12 @@
 
 Turn a feature or bug description into a practical red-green-refactor sequence built around observable behavior and stable test seams.
 
-**ChatGPT listing:** Not created
+[Open TDD Plan Generator in ChatGPT](https://chatgpt.com/g/g-6a6a1138c9f48191a141727a5ec699b9-tdd-plan-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-b14d9195ee40`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

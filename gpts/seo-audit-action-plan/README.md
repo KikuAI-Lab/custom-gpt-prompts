@@ -2,12 +2,12 @@
 
 Audit supplied page titles, metadata, headings, copy, links, and crawl evidence, then produce a prioritized SEO action plan without pretending to crawl the site.
 
-**ChatGPT listing:** Not created
+[Open SEO Audit Action Plan in ChatGPT](https://chatgpt.com/g/g-6a6a18cd60b88191922cd3bcb4da72cf-seo-audit-action-plan)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Research & Analysis
 - Prompt version: `sha256-dc486d5a9761`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

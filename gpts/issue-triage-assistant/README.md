@@ -2,12 +2,12 @@
 
 Classify a supplied bug or feature request, expose missing information, and produce a concise ready, needs-info, duplicate, or close verdict.
 
-**ChatGPT listing:** Not created
+[Open Issue Triage Assistant in ChatGPT](https://chatgpt.com/g/g-6a6a12d913948191939365c7114569cc-issue-triage-assistant)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-21965228717b`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

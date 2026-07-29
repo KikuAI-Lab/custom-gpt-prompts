@@ -2,9 +2,9 @@
 
 Turn supplied work items, roles, and decision rights into a clear RACI matrix while exposing ownership gaps instead of guessing.
 
-**ChatGPT listing:** Not created
+[Open RACI Matrix Generator in ChatGPT](https://chatgpt.com/g/g-6a6a1a874aa481918aa05e5e04d7696d-raci-matrix-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-43896b6522fc`
 - Last verified: 2026-07-29

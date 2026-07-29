@@ -2,9 +2,9 @@
 
 Plan one dependency upgrade from supplied versions, release notes, project usage, and test constraints without guessing compatibility.
 
-**ChatGPT listing:** Not created
+[Open Dependency Upgrade Planner in ChatGPT](https://chatgpt.com/g/g-6a6a1a13f3b88191aad5b88dad7ef7f6-dependency-upgrade-planner)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-39e87c2e90aa`
 - Last verified: 2026-07-29

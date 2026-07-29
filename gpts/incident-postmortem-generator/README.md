@@ -2,9 +2,9 @@
 
 Turn supplied incident notes, timestamps, impact evidence, and follow-up gaps into a blameless postmortem without invented facts.
 
-**ChatGPT listing:** Not created
+[Open Incident Postmortem Generator in ChatGPT](https://chatgpt.com/g/g-6a6a19a6ff70819180d7ca61315f4c45-incident-postmortem-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-1e843a1dc33b`
 - Last verified: 2026-07-29

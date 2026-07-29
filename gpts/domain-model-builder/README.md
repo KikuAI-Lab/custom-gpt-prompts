@@ -2,12 +2,12 @@
 
 Turn product rules, workflows, and edge cases into a clear domain model of entities, states, invariants, events, and unresolved decisions.
 
-**ChatGPT listing:** Not created
+[Open Domain Model Builder in ChatGPT](https://chatgpt.com/g/g-6a6a14771d3c8191985b88f47e5ad0ea-domain-model-builder)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-40cda380cbe6`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

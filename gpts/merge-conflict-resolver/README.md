@@ -2,12 +2,12 @@
 
 Explain pasted merge conflicts and produce a conservative resolved version that preserves both sides' supported intent without inventing surrounding code.
 
-**ChatGPT listing:** Not created
+[Open Merge Conflict Resolver in ChatGPT](https://chatgpt.com/g/g-6a6a16340264819185f7049f86473ffe-merge-conflict-resolver)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-613f76a0129f`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

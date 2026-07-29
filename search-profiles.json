@@ -12,9 +12,9 @@
     "total": 100,
     "dedicatedLandingPages": 5,
     "publicPromptCatalogOnly": 95,
-    "gptStore": 64,
-    "publicLink": 13,
-    "launchReady": 23
+    "gptStore": 65,
+    "publicLink": 35,
+    "launchReady": 0
   },
   "profiles": [
     {
@@ -1724,14 +1724,14 @@
         "Suggest cleaner module boundaries without rewriting everything.",
         "Compare two architecture options for this feature."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a0e454f808191b29fd73a95d7d484-codebase-architecture-reviewer",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/codebase-architecture-reviewer",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
-      "storeDiscoverable": false,
+      "publicationVisibility": "gpt_store",
+      "storeDiscoverable": true,
       "promptVersion": "sha256-1af8ea8a3d30",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "tdd-plan-generator",
@@ -1746,14 +1746,14 @@
         "Choose stable test seams for this behavior.",
         "Rewrite this test plan to avoid implementation-detail tests."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a1138c9f48191a141727a5ec699b9-tdd-plan-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/tdd-plan-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-b14d9195ee40",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "developer-handoff-generator",
@@ -1768,14 +1768,14 @@
         "Condense this long status update into restart context.",
         "Redact secrets and prepare this work for another developer."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a12827cd88191beb70a1607d8f95c-developer-handoff-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/developer-handoff-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-3fd8e0aaa7ac",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "issue-triage-assistant",
@@ -1790,14 +1790,14 @@
         "Turn this vague feature request into a clear triage note.",
         "Compare these two issues for possible duplication."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a12d913948191939365c7114569cc-issue-triage-assistant",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/issue-triage-assistant",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-21965228717b",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "prototype-scope-planner",
@@ -1812,14 +1812,14 @@
         "Decide whether this needs a UI or logic prototype.",
         "Cut this prototype scope down to one answerable question."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a133072448191b041bb23faba25f4-prototype-scope-planner",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/prototype-scope-planner",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-028fccc5b2f5",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "technical-concept-tutor",
@@ -1834,14 +1834,14 @@
         "Quiz me briefly after the explanation.",
         "Use this example to show where my understanding breaks."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a137e406081918fab5131d06fc496-technical-concept-tutor",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/technical-concept-tutor",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-b9841cd924a1",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "feature-brainstorming-coach",
@@ -1856,14 +1856,14 @@
         "Give me three genuinely different approaches.",
         "Turn this rough idea into one testable next decision."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a13cc2e908191bb11001223b57d81-feature-brainstorming-coach",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/feature-brainstorming-coach",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-5bd7cd628097",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "domain-model-builder",
@@ -1878,14 +1878,14 @@
         "Find ambiguous terms and missing edge cases.",
         "Stress-test this domain model with scenarios."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a14771d3c8191985b88f47e5ad0ea-domain-model-builder",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/domain-model-builder",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-40cda380cbe6",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "frontend-performance-reviewer",
@@ -1900,14 +1900,14 @@
         "Rank the loading and bundle risks in this component.",
         "Suggest a measurable fix without changing behavior."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a14c3f0588191a497c5df55caae05-frontend-performance-reviewer",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/frontend-performance-reviewer",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-01fcef41ea77",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "root-cause-debugging-guide",
@@ -1922,14 +1922,14 @@
         "Design the next test that separates these causes.",
         "Stop me from applying another symptom fix."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a150fd8248191b70abef34c9bbbbb-root-cause-debugging-guide",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/root-cause-debugging-guide",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-155a78ee2ea0",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "implementation-plan-generator",
@@ -1944,14 +1944,14 @@
         "Map these requirements to files and verification.",
         "Rewrite this plan so another developer can execute it."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a158508888191b2da75b40522ff7e-implementation-plan-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/implementation-plan-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-a28c3f2c1bb1",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "refactor-plan-generator",
@@ -1966,14 +1966,14 @@
         "Compare refactor options before choosing one.",
         "Add safety checks to this risky refactor plan."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a15d449f48191a39c79b92d5965e1-refactor-plan-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/refactor-plan-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-e011ee60b154",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "merge-conflict-resolver",
@@ -1988,14 +1988,14 @@
         "Preserve both supported behaviors in this conflict.",
         "Tell me when this conflict needs more context."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a16340264819185f7049f86473ffe-merge-conflict-resolver",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/merge-conflict-resolver",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-613f76a0129f",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "source-claim-checker",
@@ -2010,14 +2010,14 @@
         "Separate source facts from my inference.",
         "Rewrite this claim to match the supplied evidence."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a16a5a28081919669e8202b88b1bf-source-claim-checker",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/source-claim-checker",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-326407b1b702",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "exploratory-test-charter-generator",
@@ -2032,14 +2032,14 @@
         "Turn this bug history into a test session plan.",
         "Design a 30-minute exploratory testing session."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a1716ff788191951717c806c30937-exploratory-test-charter-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/exploratory-test-charter-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-e1d9363db0f1",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "product-glossary-builder",
@@ -2054,14 +2054,14 @@
         "Choose one canonical term for these synonyms.",
         "Turn this conversation into a shared vocabulary."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a1787a6348191866ffb5edacfe0bd-product-glossary-builder",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/product-glossary-builder",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-1017ff509135",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "done-evidence-checker",
@@ -2076,14 +2076,14 @@
         "Find unsupported claims in this completion update.",
         "Create the smallest missing verification checklist."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a17eaff5881919042c4724c4ea000-done-evidence-checker",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/done-evidence-checker",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-f208c1abd62c",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "website-accessibility-reviewer",
@@ -2098,14 +2098,14 @@
         "Rank the keyboard and screen-reader problems.",
         "Rewrite these labels and error messages clearly."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a1864380481918d168f09dc3d28c0-website-accessibility-reviewer",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/website-accessibility-reviewer",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-a49523b53da8",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "seo-audit-action-plan",
@@ -2120,14 +2120,14 @@
         "Review these titles, headings, and internal links.",
         "Turn this SEO export into an action plan."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a18cd60b88191922cd3bcb4da72cf-seo-audit-action-plan",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/seo-audit-action-plan",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-dc486d5a9761",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "landing-page-copywriter",
@@ -2142,14 +2142,14 @@
         "Rewrite this page around one primary action.",
         "Create honest benefit-led copy from these proof points."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a193ee3b08191b9ad48b8081f10bc-landing-page-copywriter",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/landing-page-copywriter",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-dc9789bfb993",
-      "lastVerifiedAt": "2026-07-28"
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "incident-postmortem-generator",
@@ -2164,11 +2164,11 @@
         "Separate root cause, trigger, and contributing factors.",
         "Create evidence-grounded follow-up actions."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a19a6ff70819180d7ca61315f4c45-incident-postmortem-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/incident-postmortem-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-1e843a1dc33b",
       "lastVerifiedAt": "2026-07-29"
@@ -2186,11 +2186,11 @@
         "Create a verification and rollback plan for this upgrade.",
         "Turn this manifest excerpt into one safe upgrade task."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a1a13f3b88191aad5b88dad7ef7f6-dependency-upgrade-planner",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/dependency-upgrade-planner",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-39e87c2e90aa",
       "lastVerifiedAt": "2026-07-29"
@@ -2208,11 +2208,11 @@
         "Separate responsible, accountable, consulted, and informed.",
         "Turn these decision rights into a clean RACI table."
       ],
-      "chatgptUrl": null,
+      "chatgptUrl": "https://chatgpt.com/g/g-6a6a1a874aa481918aa05e5e04d7696d-raci-matrix-generator",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/raci-matrix-generator",
       "landingPageUrl": null,
       "webPageDecision": "public_prompt_catalog",
-      "publicationVisibility": "launch_ready",
+      "publicationVisibility": "public_link",
       "storeDiscoverable": false,
       "promptVersion": "sha256-43896b6522fc",
       "lastVerifiedAt": "2026-07-29"

@@ -2,12 +2,12 @@
 
 Turn one uncertain product or engineering question into a minimal throwaway prototype plan with a clear test, verdict, and stop condition.
 
-**ChatGPT listing:** Not created
+[Open Prototype Scope Planner in ChatGPT](https://chatgpt.com/g/g-6a6a133072448191b041bb23faba25f4-prototype-scope-planner)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-028fccc5b2f5`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

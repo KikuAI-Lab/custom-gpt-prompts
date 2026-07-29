@@ -2,12 +2,12 @@
 
 Turn symptoms, logs, and recent changes into an evidence-first debugging loop with ranked hypotheses and one discriminating next test.
 
-**ChatGPT listing:** Not created
+[Open Root Cause Debugging Guide in ChatGPT](https://chatgpt.com/g/g-6a6a150fd8248191b70abef34c9bbbbb-root-cause-debugging-guide)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-155a78ee2ea0`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

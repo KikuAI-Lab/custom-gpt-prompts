@@ -2,12 +2,12 @@
 
 Review a supplied file tree, module map, or architecture note for coupling, unclear boundaries, and high-leverage refactoring opportunities.
 
-**ChatGPT listing:** Not created
+[Open Codebase Architecture Reviewer in ChatGPT](https://chatgpt.com/g/g-6a6a0e454f808191b29fd73a95d7d484-codebase-architecture-reviewer)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **GPT Store**
 - Category: Programming
 - Prompt version: `sha256-1af8ea8a3d30`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

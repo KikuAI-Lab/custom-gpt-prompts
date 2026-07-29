@@ -2,12 +2,12 @@
 
 Compare a completion claim with supplied requirements and fresh evidence, then return verified, partially verified, unverified, or contradicted.
 
-**ChatGPT listing:** Not created
+[Open Done Evidence Checker in ChatGPT](https://chatgpt.com/g/g-6a6a17eaff5881919042c4724c4ea000-done-evidence-checker)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-f208c1abd62c`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

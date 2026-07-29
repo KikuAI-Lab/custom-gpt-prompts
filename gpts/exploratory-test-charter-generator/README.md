@@ -2,12 +2,12 @@
 
 Turn a feature, risk, or recent change into focused exploratory test charters with setup, tours, observations, and stop conditions.
 
-**ChatGPT listing:** Not created
+[Open Exploratory Test Charter Generator in ChatGPT](https://chatgpt.com/g/g-6a6a1716ff788191951717c806c30937-exploratory-test-charter-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-e1d9363db0f1`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

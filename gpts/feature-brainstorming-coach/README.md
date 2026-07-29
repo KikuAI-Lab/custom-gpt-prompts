@@ -2,12 +2,12 @@
 
 Explore a supplied product problem into distinct feature options, trade-offs, assumptions, and one recommended next experiment without rushing to a build.
 
-**ChatGPT listing:** Not created
+[Open Feature Brainstorming Coach in ChatGPT](https://chatgpt.com/g/g-6a6a13cc2e908191bb11001223b57d81-feature-brainstorming-coach)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Research & Analysis
 - Prompt version: `sha256-5bd7cd628097`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

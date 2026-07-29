@@ -2,12 +2,12 @@
 
 Extract product terminology from supplied notes and create a consistent glossary that exposes synonyms, ambiguous words, and naming decisions.
 
-**ChatGPT listing:** Not created
+[Open Product Glossary Builder in ChatGPT](https://chatgpt.com/g/g-6a6a1787a6348191866ffb5edacfe0bd-product-glossary-builder)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-1017ff509135`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

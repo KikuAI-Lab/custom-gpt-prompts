@@ -2,12 +2,12 @@
 
 Turn project notes, chat context, decisions, and current status into a concise developer handoff that another person can resume immediately.
 
-**ChatGPT listing:** Not created
+[Open Developer Handoff Generator in ChatGPT](https://chatgpt.com/g/g-6a6a12827cd88191beb70a1607d8f95c-developer-handoff-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Productivity
 - Prompt version: `sha256-3fd8e0aaa7ac`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

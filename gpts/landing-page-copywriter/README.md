@@ -2,12 +2,12 @@
 
 Turn a supplied product, audience, proof, and call to action into clear conversion-focused landing page copy without invented claims.
 
-**ChatGPT listing:** Not created
+[Open Landing Page Copywriter in ChatGPT](https://chatgpt.com/g/g-6a6a193ee3b08191b9ad48b8081f10bc-landing-page-copywriter)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Writing
 - Prompt version: `sha256-dc9789bfb993`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

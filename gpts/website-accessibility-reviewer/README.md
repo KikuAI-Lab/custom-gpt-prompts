@@ -2,12 +2,12 @@
 
 Review supplied page code, copy, or screenshots for practical accessibility risks and return prioritized fixes without claiming formal compliance.
 
-**ChatGPT listing:** Not created
+[Open Website Accessibility Reviewer in ChatGPT](https://chatgpt.com/g/g-6a6a1864380481918d168f09dc3d28c0-website-accessibility-reviewer)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-a49523b53da8`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

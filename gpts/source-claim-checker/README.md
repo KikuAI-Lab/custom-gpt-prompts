@@ -2,12 +2,12 @@
 
 Check whether supplied sources actually support a claim, separating direct evidence, inference, contradiction, missing context, and unsupported wording.
 
-**ChatGPT listing:** Not created
+[Open Source Claim Checker in ChatGPT](https://chatgpt.com/g/g-6a6a16a5a28081919669e8202b88b1bf-source-claim-checker)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Research & Analysis
 - Prompt version: `sha256-326407b1b702`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

@@ -2,12 +2,12 @@
 
 Review supplied frontend code for avoidable rendering, loading, bundle, and data-fetching costs, then rank the smallest measurable fixes.
 
-**ChatGPT listing:** Not created
+[Open Frontend Performance Reviewer in ChatGPT](https://chatgpt.com/g/g-6a6a14c3f0588191a497c5df55caae05-frontend-performance-reviewer)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-01fcef41ea77`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

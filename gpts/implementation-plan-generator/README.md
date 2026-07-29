@@ -2,12 +2,12 @@
 
 Turn a supplied feature specification and project context into ordered, testable implementation steps with scope, files, evidence, and rollback points.
 
-**ChatGPT listing:** Not created
+[Open Implementation Plan Generator in ChatGPT](https://chatgpt.com/g/g-6a6a158508888191b2da75b40522ff7e-implementation-plan-generator)
 
-- Visibility: **Launch-ready (not public)**
+- Visibility: **Public link**
 - Category: Programming
 - Prompt version: `sha256-a28c3f2c1bb1`
-- Last verified: 2026-07-28
+- Last verified: 2026-07-29
 
 ## Conversation starters
 
