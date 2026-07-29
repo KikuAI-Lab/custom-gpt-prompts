@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "snapshotDate": "2026-07-28",
+  "snapshotDate": "2026-07-29",
   "sourceIssue": "https://github.com/KikuAI-Lab/kikuai.dev/issues/64",
   "builderName": "KikuAI Studio",
   "surfacePolicy": {
@@ -12,9 +12,9 @@
     "total": 100,
     "dedicatedLandingPages": 5,
     "publicPromptCatalogOnly": 95,
-    "gptStore": 63,
-    "publicLink": 17,
-    "launchReady": 20
+    "gptStore": 64,
+    "publicLink": 13,
+    "launchReady": 23
   },
   "profiles": [
     {
@@ -2150,6 +2150,72 @@
       "storeDiscoverable": false,
       "promptVersion": "sha256-dc9789bfb993",
       "lastVerifiedAt": "2026-07-28"
+    },
+    {
+      "slug": "incident-postmortem-generator",
+      "canonicalName": "Incident Postmortem Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Turn supplied incident notes, timestamps, impact evidence, and follow-up gaps into a blameless postmortem without invented facts.",
+      "primaryQuery": "incident postmortem generator",
+      "supportingIntents": [
+        "Turn these incident notes into a blameless postmortem.",
+        "Build a verified timeline from these timestamps.",
+        "Separate root cause, trigger, and contributing factors.",
+        "Create evidence-grounded follow-up actions."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/incident-postmortem-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-1e843a1dc33b",
+      "lastVerifiedAt": "2026-07-29"
+    },
+    {
+      "slug": "dependency-upgrade-planner",
+      "canonicalName": "Dependency Upgrade Planner",
+      "builderName": "KikuAI Studio",
+      "category": "Programming",
+      "job": "Plan one dependency upgrade from supplied versions, release notes, project usage, and test constraints without guessing compatibility.",
+      "primaryQuery": "dependency upgrade planner",
+      "supportingIntents": [
+        "Plan this package upgrade from the supplied release notes.",
+        "Map these breaking changes to our current usage.",
+        "Create a verification and rollback plan for this upgrade.",
+        "Turn this manifest excerpt into one safe upgrade task."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/dependency-upgrade-planner",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-39e87c2e90aa",
+      "lastVerifiedAt": "2026-07-29"
+    },
+    {
+      "slug": "raci-matrix-generator",
+      "canonicalName": "RACI Matrix Generator",
+      "builderName": "KikuAI Studio",
+      "category": "Productivity",
+      "job": "Turn supplied work items, roles, and decision rights into a clear RACI matrix while exposing ownership gaps instead of guessing.",
+      "primaryQuery": "RACI matrix generator",
+      "supportingIntents": [
+        "Build a RACI matrix from these tasks and roles.",
+        "Check this responsibility matrix for ownership gaps.",
+        "Separate responsible, accountable, consulted, and informed.",
+        "Turn these decision rights into a clean RACI table."
+      ],
+      "chatgptUrl": null,
+      "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/raci-matrix-generator",
+      "landingPageUrl": null,
+      "webPageDecision": "public_prompt_catalog",
+      "publicationVisibility": "launch_ready",
+      "storeDiscoverable": false,
+      "promptVersion": "sha256-3652e1d54423",
+      "lastVerifiedAt": "2026-07-29"
     }
   ]
 }

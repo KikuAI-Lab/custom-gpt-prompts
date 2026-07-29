@@ -1,14 +1,14 @@
-# 97 Custom GPT Prompt Packages and Tools
+# 100 Custom GPT Prompt Packages and Tools
 
 A public library of narrow, prompt-only Custom GPT utilities by
 [KikuAI](https://kikuai.dev). Every entry includes the complete custom
 instructions, conversation starters, a prompt version, and an honest
 publication state.
 
-**Snapshot: 2026-07-29 — 97 prompt packages; 77 public GPTs (64 in the GPT Store and 13 by direct link); 20 launch-ready packages not yet created in ChatGPT.**
+**Snapshot: 2026-07-29 — 100 prompt packages; 77 public GPTs (64 in the GPT Store and 13 by direct link); 23 launch-ready packages not yet created in ChatGPT.**
 
 All 77 live listings have their matching original ImageGen avatar
-applied and saved in Builder. The 20 launch-ready packages
+applied and saved in Builder. The 23 launch-ready packages
 also have complete original avatar assets, but they are not claimed as live.
 
 ## Search and web guides
@@ -129,12 +129,15 @@ indexing.
 | Website Accessibility Reviewer | Review supplied page code, copy, or screenshots for practical accessibility risks and return prioritized fixes without claiming formal compliance. | Launch-ready (not public) | [View prompt](./gpts/website-accessibility-reviewer/README.md) |
 | SEO Audit Action Plan | Audit supplied page titles, metadata, headings, copy, links, and crawl evidence, then produce a prioritized SEO action plan without pretending to crawl the site. | Launch-ready (not public) | [View prompt](./gpts/seo-audit-action-plan/README.md) |
 | Landing Page Copywriter | Turn a supplied product, audience, proof, and call to action into clear conversion-focused landing page copy without invented claims. | Launch-ready (not public) | [View prompt](./gpts/landing-page-copywriter/README.md) |
+| Incident Postmortem Generator | Turn supplied incident notes, timestamps, impact evidence, and follow-up gaps into a blameless postmortem without invented facts. | Launch-ready (not public) | [View prompt](./gpts/incident-postmortem-generator/README.md) |
+| Dependency Upgrade Planner | Plan one dependency upgrade from supplied versions, release notes, project usage, and test constraints without guessing compatibility. | Launch-ready (not public) | [View prompt](./gpts/dependency-upgrade-planner/README.md) |
+| RACI Matrix Generator | Turn supplied work items, roles, and decision rights into a clear RACI matrix while exposing ownership gaps instead of guessing. | Launch-ready (not public) | [View prompt](./gpts/raci-matrix-generator/README.md) |
 
 ## What is included
 
 - `gpts/<slug>/README.md` — one readable page per prompt package with its
   complete instructions and verified publication state.
-- `catalog.json` — the same 97 configurations in a machine-readable
+- `catalog.json` — the same 100 configurations in a machine-readable
   format.
 - Literal, search-friendly names and narrow input-to-output contracts.
 - No custom actions, external apps, private knowledge files, or external API
@@ -155,7 +158,7 @@ success, or user retention.
 
 ## Quality and safety boundary
 
-All 97 packages have a static three-case smoke contract: normal
+All 100 packages have a static three-case smoke contract: normal
 input, ambiguous or bad input, and a fabrication trap. Runtime receipts are
 kept in the private factory repository because provider availability and live
 Builder behavior can differ. Static evidence is not a substitute for live
