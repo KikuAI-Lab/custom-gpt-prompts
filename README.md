@@ -14,7 +14,7 @@ applied and saved in Builder.
 
 The [search entity registry](./search-profiles.json) keeps GPT Store listing
 fields separate from external web-search pages. Every package has one literal
-primary query and a public prompt URL. Five evidence-backed utilities also have
+primary query and a public prompt URL. Seven evidence-backed utilities also have
 substantive KikuAI guides:
 
 - [Image to Text OCR](https://kikuai.dev/gpts/image-to-text-ocr/)
@@ -22,6 +22,8 @@ substantive KikuAI guides:
 - [Receipt to CSV](https://kikuai.dev/gpts/receipt-to-csv/)
 - [Excel Formula Fixer](https://kikuai.dev/gpts/excel-formula-fixer/)
 - [Meeting Notes to Action Items](https://kikuai.dev/gpts/meeting-notes-action-items/)
+- [API Design Reviewer](https://kikuai.dev/gpts/api-design-reviewer/)
+- [Landing Page Review for B2B](https://kikuai.dev/gpts/landing-page-review-b2b/)
 
 The remaining prompts stay in this catalog rather than receiving thin search
 pages. Neither Store-public status nor a web guide proves search rank or

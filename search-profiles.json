@@ -5,13 +5,13 @@
   "builderName": "KikuAI Studio",
   "surfacePolicy": {
     "gptStore": "Use the literal listing name, description, category, and conversation starters. Store-public status is recorded separately from rank or exact-query discovery.",
-    "webSearch": "Five evidence-backed GPTs receive substantive kikuai.dev pages. The remaining GPTs stay in the public prompt catalog rather than creating thin doorway pages."
+    "webSearch": "Seven evidence-backed GPTs receive substantive kikuai.dev pages. The remaining GPTs stay in the public prompt catalog rather than creating thin doorway pages."
   },
   "evidenceBoundary": "Publication and prompt configuration were reconciled on the dates shown. This file does not prove GPT Store rank, web indexing, Builder runtime parity, first-task success, or retention.",
   "counts": {
     "total": 100,
-    "dedicatedLandingPages": 5,
-    "publicPromptCatalogOnly": 95,
+    "dedicatedLandingPages": 7,
+    "publicPromptCatalogOnly": 93,
     "gptStore": 65,
     "publicLink": 35,
     "launchReady": 0
@@ -164,12 +164,12 @@
       ],
       "chatgptUrl": "https://chatgpt.com/g/g-6a60e2a79b888191ad3fd8c02c451ae8-landing-page-review-for-b2b",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/landing-page-review-b2b",
-      "landingPageUrl": null,
-      "webPageDecision": "public_prompt_catalog",
+      "landingPageUrl": "https://kikuai.dev/gpts/landing-page-review-b2b/",
+      "webPageDecision": "dedicated_landing_page",
       "publicationVisibility": "gpt_store",
       "storeDiscoverable": true,
-      "promptVersion": "sha256-3a46bc200105",
-      "lastVerifiedAt": "2026-07-26"
+      "promptVersion": "sha256-57105a2f0119",
+      "lastVerifiedAt": "2026-07-29"
     },
     {
       "slug": "grammar-checker",
@@ -1572,8 +1572,8 @@
       ],
       "chatgptUrl": "https://chatgpt.com/g/g-6a66fbc256308191ba4c5ae5ff56441f-api-design-reviewer",
       "promptPageUrl": "https://github.com/KikuAI-Lab/custom-gpt-prompts/tree/main/gpts/api-design-reviewer",
-      "landingPageUrl": null,
-      "webPageDecision": "public_prompt_catalog",
+      "landingPageUrl": "https://kikuai.dev/gpts/api-design-reviewer/",
+      "webPageDecision": "dedicated_landing_page",
       "publicationVisibility": "gpt_store",
       "storeDiscoverable": true,
       "promptVersion": "sha256-c9991425138e",

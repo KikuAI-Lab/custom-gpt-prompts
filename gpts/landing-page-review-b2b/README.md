@@ -4,10 +4,12 @@ Upload a B2B landing-page screenshot or paste its copy. Get a focused review of 
 
 [Open Landing Page Review for B2B in ChatGPT](https://chatgpt.com/g/g-6a60e2a79b888191ad3fd8c02c451ae8-landing-page-review-for-b2b)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/landing-page-review-b2b/)
+
 - Visibility: **GPT Store**
 - Category: Research & Analysis
-- Prompt version: `sha256-3a46bc200105`
-- Last verified: 2026-07-26
+- Prompt version: `sha256-57105a2f0119`
+- Last verified: 2026-07-29
 
 ## Conversation starters
 

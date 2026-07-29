@@ -4,6 +4,8 @@ Review a supplied API contract, endpoint spec, schema, or configuration for ambi
 
 [Open API Design Reviewer in ChatGPT](https://chatgpt.com/g/g-6a66fbc256308191ba4c5ae5ff56441f-api-design-reviewer)
 
+[Read the input, output, privacy, and limitation guide](https://kikuai.dev/gpts/api-design-reviewer/)
+
 - Visibility: **GPT Store**
 - Category: Programming
 - Prompt version: `sha256-c9991425138e`
